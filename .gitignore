@@ -1,0 +1,7 @@
+model.pt
+sample.txt
+__pycache__
+Paper
+runs
+table_generator.py
+total_runs.xlsx
